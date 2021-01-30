@@ -1,0 +1,20 @@
+c:\users\bele\documents\visual studio 2013\Projects\clinic\clinic\bin\Debug\clinic.exe.config
+C:\clinic\clinic\bin\Debug\clinic.exe.config
+C:\clinic\clinic\bin\Debug\clinic.exe
+C:\clinic\clinic\bin\Debug\clinic.pdb
+C:\clinic\clinic\obj\Debug\clinic.csprojResolveAssemblyReference.cache
+C:\clinic\clinic\obj\Debug\clinic.Form1.resources
+C:\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.Cache
+C:\clinic\clinic\obj\Debug\clinic.exe
+C:\clinic\clinic\obj\Debug\clinic.pdb
+C:\clinic\clinic\obj\Debug\clinic.Add.resources
+C:\clinic\clinic\obj\Debug\clinic.Form2.resources
+C:\clinic\clinic\bin\Debug\SQLite.NET.dll
+C:\clinic\clinic\bin\Debug\System.Data.SQLite.Linq.dll
+C:\clinic\clinic\bin\Debug\System.Data.SQLite.pdb
+C:\clinic\clinic\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\clinic\clinic\obj\Debug\Interop.MSDATASRC.dll
+C:\clinic\clinic\obj\Debug\clinic.csproj.ResolveComReference.cache
+C:\clinic\clinic\bin\Debug\System.Data.SQLite.dll
+C:\clinic\clinic\obj\Debug\clinic.stat.resources
